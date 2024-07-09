@@ -10,8 +10,8 @@ This is a solution to the [Tribute Page project for responsive web design certif
 
 ### Links
 
-- [View Code]()
-- [Live Preview]()
+- [View Code](https://github.com/elizerdim/tribute-page)
+- [Live Preview](https://elizerdim.github.io/tribute-page/)
 
 ## My process
 
